@@ -1,0 +1,10 @@
+# Editor configuration files
+.vs/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Project temporary build archives
+*.log
+*.tmp
+*.bak
